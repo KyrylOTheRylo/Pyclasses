@@ -1,0 +1,7 @@
+98.0	Check the matrix	2
+98.0	Escape from the Labyryinth	1
+94.0	Limit of x going to 2 of a functionфіфіф	1
+84.5	Find a Square root	2
+	Python	Lagerrfierd	Misha	2020	70
+80.3	Escape from the Labyrinth	3
+	Nagdalen	Poul	Andrew	2003	73
